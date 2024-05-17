@@ -2,6 +2,7 @@ body{
     display: table;
     margin:auto;
     background-color:gainsboro;
+    font-size: large;
 }
 
 
@@ -22,6 +23,7 @@ button{
     border: none;
     border-radius: 5px;
     background-color:gainsboro;
+    font-size: larger;
 }
 
 button:hover{
@@ -36,6 +38,8 @@ input{
     height: 70px;
     border-radius: 5px;
     border: none;
+    font-size: large;
+    
 
 }
 
@@ -43,6 +47,7 @@ input[type="text"]{
     width: 270px;
     border:solid; 
     background-color: gainsboro;
+    font-size: xx-large;
 }
 .equalBtn{
     background-color: rgb(0, 81, 255);
